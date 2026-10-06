@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env*
+*.csv
+*.xlsx
+*.parquet
+*.ipynb
+*.pt
+*.pth
+data/
+runs/
+artifacts/
