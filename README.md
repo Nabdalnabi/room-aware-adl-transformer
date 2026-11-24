@@ -1,8 +1,10 @@
 # Room-Aware ADL Forecasting
 
+[![tests](https://github.com/Nabdalnabi/room-aware-adl-transformer/actions/workflows/tests.yml/badge.svg)](https://github.com/Nabdalnabi/room-aware-adl-transformer/actions/workflows/tests.yml)
+
 Compact PyTorch Transformer and LSTM pipelines for next-observation activities
 of daily living (ADL) classification from ambient smart-home sensors.
-Prepared from Nader Abdalnabi's dissertation code for research-code review.
+Developed as part of my PhD dissertation research at the University of Missouri.
 
 ## What this demonstrates
 
